@@ -1,5 +1,5 @@
 # Module-preservation-analysis
 
 
-# Another repository
+# Related Repositorie: Downstream functional analysis (GO, promoter, miRNA)
 Downstream functional analysis
