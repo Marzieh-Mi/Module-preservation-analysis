@@ -19,4 +19,5 @@ Langfelder, P., & Horvath, S. (2008)
 - WGCNA package
 
 # Related Repositories: Downstream functional analysis (GO, promoter, miRNA)
+Gene-co-expression-network-analysis
 Downstream functional analysis
