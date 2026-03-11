@@ -6,7 +6,7 @@ This repository includes scripts and workflows for analyzing the preservation of
 Weighted Gene Co-expression Network Analysis (WGCNA)
 
 Reference:
-Langfelder, P., & Horvath, S. (2008)
+Langfelder, P., & Horvath, S. (2008). WGCNA: an R package for weighted correlation network analysis
 
 ## Analysis Workflow
 1. Import gene expression data
@@ -18,6 +18,6 @@ Langfelder, P., & Horvath, S. (2008)
 - R
 - WGCNA package
 
-# Related Repositories: Downstream functional analysis (GO, promoter, miRNA)
+# Related Repositories: 
 Gene-co-expression-network-analysis
-Downstream functional analysis
+Downstream functional analysis (GO, promoter, miRNA)
