@@ -16,7 +16,7 @@ Langfelder, P., & Horvath, S. (2008). WGCNA: an R package for weighted correlati
 
 ## Tools
 - R
-- WGCNA package. R
+- WGCNA package
 
 # Related Repositories: 
 Gene-co-expression-network-analysis
