@@ -1,4 +1,4 @@
-# Module-preservation-analysis
+# module_preservation_analysis.R
 
 This repository includes scripts and workflows for analyzing the preservation of modules in gene co-expression networks.
 
